@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Question 4 : create a paragraph generator which takes length of words in paragraph and generate paragraph.
+![Screenshot 2024-01-20 122622](https://github.com/usaketh/Para-Generator/assets/64151405/e0f10ddb-3bbc-4bed-b824-551af4390116)
